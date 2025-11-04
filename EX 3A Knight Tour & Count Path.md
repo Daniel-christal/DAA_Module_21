@@ -1,5 +1,3 @@
-<img width="378" height="176" alt="image" src="https://github.com/user-attachments/assets/7825f3b4-112b-4bac-ba87-52a027239507" /># EX 3A Knight Tour & Count Path
-## DATE:
 ## AIM:
 To write a python program to find minimum steps to reach to specific cell in minimum moves by knight
 
