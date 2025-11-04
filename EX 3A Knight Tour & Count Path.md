@@ -1,3 +1,5 @@
+# EX 3A Knight Tour & Count Path
+
 ## AIM:
 To write a python program to find minimum steps to reach to specific cell in minimum moves by knight
 
